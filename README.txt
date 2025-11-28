@@ -3,7 +3,8 @@ Python Calculator App
 This is a basic calculator with add, subtract, multiply, and divide functions.
 
 How to run locally:
-py calculator.py
+docker pull ahmedalsheikh23/calculator-app
+docker run -it ahmedalsheikh23/calculator-app
 
 How to build Docker image:
 docker build -t ahmedalsheikh23/calculator-app .
@@ -16,6 +17,7 @@ https://github.com/ahmedalsheikh23/calculator-app
 
 Docker Hub Image URL:
 https://hub.docker.com/r/ahmedalsheikh23/calculator-app
+
 
 
 
