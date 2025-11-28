@@ -1,6 +1,6 @@
-Simple Python Calculator App
+Python Calculator App
 
-This is a basic terminal calculator with add, subtract, multiply, and divide functions.
+This is a basic calculator with add, subtract, multiply, and divide functions.
 
 How to run locally:
 py calculator.py
@@ -16,5 +16,6 @@ https://github.com/ahmedalsheikh23/calculator-app
 
 Docker Hub Image URL:
 https://hub.docker.com/r/ahmedalsheikh23/calculator-app
+
 
 
